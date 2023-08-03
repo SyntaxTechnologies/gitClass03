@@ -9,5 +9,9 @@ public class Main {
         }
 
         System.out.println("the code is complete");
+
+
+        Solarsystem Solarsystem = new Solarsystem();
+
     }
 }
